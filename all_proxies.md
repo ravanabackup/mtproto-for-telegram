@@ -1,9 +1,9 @@
 # MTProto Proxy Links
 
 Source: `https://raw.githubusercontent.com/SoliSpirit/mtproto/master/all_proxies.txt`
-Last sync: 2026-05-06 02:33 UTC
-TXT SHA256: `f2ea35d4d1b7ddd42a1f361815ca8dd27fedd21a66191be3b8aa7d54aa3c9429`
-Total proxies: **104**
+Last sync: 2026-05-06 14:01 UTC
+TXT SHA256: `c204b5b0052edf9575ee032a897c63ceb521f418053f5ba2c796771184e7ccf3`
+Total proxies: **105**
 
 Click any link below to open it directly in Telegram:
 
@@ -85,29 +85,30 @@ Click any link below to open it directly in Telegram:
 - 0076\. [77.72.80.25:9443](https://t.me/proxy?server=77.72.80.25&port=9443&secret=eeNEgYdJvXrFGRMCIMJCdQ)
 - 0077\. [77.72.80.80:9443](https://t.me/proxy?server=77.72.80.80&port=9443&secret=79e344818749bd7ac519130220c25d09)
 - 0078\. [77.72.80.77:9443](https://t.me/proxy?server=77.72.80.77&port=9443&secret=79e344818749bd7ac519130220c25d09)
-- 0079\. [cover-acid.top:853](https://t.me/proxy?server=cover-acid.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b)
-- 0080\. [swe-1.vespersubpage.tech:443](https://t.me/proxy?server=swe-1.vespersubpage.tech&port=443&secret=ee503ff7a4c00ebb5fe94b58c1a418e16f706574726f766963682e7275)
-- 0081\. [proxyfsociety.strangled.net:443](https://t.me/proxy?server=proxyfsociety.strangled.net&port=443&secret=eeec5071a832c00b83ea970629d08ef2fe706574726f766963682e7275)
-- 0082\. [proxyfsociety.mooo.com:443](https://t.me/proxy?server=proxyfsociety.mooo.com&port=443&secret=eeec5071a832c00b83ea970629d08ef2fe706574726f766963682e7275)
-- 0083\. [now.tproxyru.click:8980](https://t.me/proxy?server=now.tproxyru.click&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275)
-- 0084\. [proxy.proxymtproto.net:443](https://t.me/proxy?server=proxy.proxymtproto.net&port=443&secret=dd97caa3c6888366f26b12f994f02ecf1a)
-- 0085\. [getfastlink.click:443](https://t.me/proxy?server=getfastlink.click&port=443&secret=ee47e3a8b2c1f4e9d0a6b5c8d7e4f3a2b1676574666173746c696e6b2e636c69636b)
-- 0086\. [connect.tproxyru.click:8980](https://t.me/proxy?server=connect.tproxyru.click&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275)
-- 0087\. [i-love-femboys.top:853](https://t.me/proxy?server=i-love-femboys.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b)
-- 0088\. [linkflowhub.shop:443](https://t.me/proxy?server=linkflowhub.shop&port=443&secret=ee214c7bb19c9734154c87193afcaecbcd6c696e6b666c6f776875622e73686f70)
-- 0089\. [skill-issue.top:853](https://t.me/proxy?server=skill-issue.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b)
-- 0090\. [195.254.165.249:25565](https://t.me/proxy?server=195.254.165.249&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
-- 0091\. [195.254.165.250:25565](https://t.me/proxy?server=195.254.165.250&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
-- 0092\. [195.254.165.251:25565](https://t.me/proxy?server=195.254.165.251&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
-- 0093\. [195.254.165.253:25565](https://t.me/proxy?server=195.254.165.253&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
-- 0094\. [195.254.165.252:25565](https://t.me/proxy?server=195.254.165.252&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
-- 0095\. [195.254.165.247:25565](https://t.me/proxy?server=195.254.165.247&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
-- 0096\. [cdn.koukicohost1.co.uk:443](https://t.me/proxy?server=cdn.koukicohost1.co.uk&port=443&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-- 0097\. [195.254.165.211:4455](https://t.me/proxy?server=195.254.165.211&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-- 0098\. [195.254.165.169:2053](https://t.me/proxy?server=195.254.165.169&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-- 0099\. [195.254.165.73:9443](https://t.me/proxy?server=195.254.165.73&port=9443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-- 0100\. [195.254.165.212:9443](https://t.me/proxy?server=195.254.165.212&port=9443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-- 0101\. [195.254.165.23:9443](https://t.me/proxy?server=195.254.165.23&port=9443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-- 0102\. [195.254.165.71:9443](https://t.me/proxy?server=195.254.165.71&port=9443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-- 0103\. [195.254.165.168:9443](https://t.me/proxy?server=195.254.165.168&port=9443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-- 0104\. [195.254.165.233:65535](https://t.me/proxy?server=195.254.165.233&port=65535&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+- 0079\. [swe-1.vespersubpage.tech:443](https://t.me/proxy?server=swe-1.vespersubpage.tech&port=443&secret=ee503ff7a4c00ebb5fe94b58c1a418e16f706574726f766963682e7275)
+- 0080\. [proxyfsociety.strangled.net:443](https://t.me/proxy?server=proxyfsociety.strangled.net&port=443&secret=eeec5071a832c00b83ea970629d08ef2fe706574726f766963682e7275)
+- 0081\. [proxyfsociety.mooo.com:443](https://t.me/proxy?server=proxyfsociety.mooo.com&port=443&secret=eeec5071a832c00b83ea970629d08ef2fe706574726f766963682e7275)
+- 0082\. [now.tproxyru.click:8980](https://t.me/proxy?server=now.tproxyru.click&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275)
+- 0083\. [proxy.proxymtproto.net:443](https://t.me/proxy?server=proxy.proxymtproto.net&port=443&secret=dd97caa3c6888366f26b12f994f02ecf1a)
+- 0084\. [getfastlink.click:443](https://t.me/proxy?server=getfastlink.click&port=443&secret=ee47e3a8b2c1f4e9d0a6b5c8d7e4f3a2b1676574666173746c696e6b2e636c69636b)
+- 0085\. [connect.tproxyru.click:8980](https://t.me/proxy?server=connect.tproxyru.click&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275)
+- 0086\. [i-love-femboys.top:853](https://t.me/proxy?server=i-love-femboys.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b)
+- 0087\. [linkflowhub.shop:443](https://t.me/proxy?server=linkflowhub.shop&port=443&secret=ee214c7bb19c9734154c87193afcaecbcd6c696e6b666c6f776875622e73686f70)
+- 0088\. [skill-issue.top:853](https://t.me/proxy?server=skill-issue.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b)
+- 0089\. [144.31.167.194:443](https://t.me/proxy?server=144.31.167.194&port=443&secret=ee52af82771595b7d7e9eeeda3a7aa4f1a77622e7275)
+- 0090\. [tg.fi.coconutstrip.co:443](https://t.me/proxy?server=tg.fi.coconutstrip.co&port=443&secret=ee6d2863461800ee99ef94c7ddcc761d0e79612e7275)
+- 0091\. [calcium-credit.top:853](https://t.me/proxy?server=calcium-credit.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b)
+- 0092\. [195.254.165.249:25565](https://t.me/proxy?server=195.254.165.249&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
+- 0093\. [195.254.165.250:25565](https://t.me/proxy?server=195.254.165.250&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
+- 0094\. [195.254.165.251:25565](https://t.me/proxy?server=195.254.165.251&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
+- 0095\. [195.254.165.253:25565](https://t.me/proxy?server=195.254.165.253&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
+- 0096\. [195.254.165.252:25565](https://t.me/proxy?server=195.254.165.252&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
+- 0097\. [195.254.165.247:25565](https://t.me/proxy?server=195.254.165.247&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
+- 0098\. [195.254.165.73:9443](https://t.me/proxy?server=195.254.165.73&port=9443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+- 0099\. [195.254.165.212:9443](https://t.me/proxy?server=195.254.165.212&port=9443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+- 0100\. [195.254.165.169:2053](https://t.me/proxy?server=195.254.165.169&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+- 0101\. [195.254.165.211:4455](https://t.me/proxy?server=195.254.165.211&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+- 0102\. [195.254.165.23:9443](https://t.me/proxy?server=195.254.165.23&port=9443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+- 0103\. [195.254.165.71:9443](https://t.me/proxy?server=195.254.165.71&port=9443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+- 0104\. [195.254.165.168:9443](https://t.me/proxy?server=195.254.165.168&port=9443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+- 0105\. [195.254.165.233:65535](https://t.me/proxy?server=195.254.165.233&port=65535&secret=eeNEgYdJvXrFGRMCIMJdCQ)
