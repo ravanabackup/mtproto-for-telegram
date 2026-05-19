@@ -1,8 +1,8 @@
 # MTProto Proxy Links
 
 Source: `https://raw.githubusercontent.com/SoliSpirit/mtproto/master/all_proxies.txt`
-Last sync: 2026-05-19 02:53 UTC
-TXT SHA256: `20b8d060723353c5fcc35bf0ba3cd26041c6fef6650ebd43a388e92beb41c502`
+Last sync: 2026-05-19 14:53 UTC
+TXT SHA256: `dfd62f8c216c359c8645fdf9b6e518bfd36561d1d3546f21cd562f4afe143b4f`
 Total proxies: **87**
 
 Click any link below to open it directly in Telegram:
@@ -62,27 +62,27 @@ Click any link below to open it directly in Telegram:
 - 0053\. [77.72.80.25:9443](https://t.me/proxy?server=77.72.80.25&port=9443&secret=eeNEgYdJvXrFGRMCIMJCdQ)
 - 0054\. [77.72.80.80:9443](https://t.me/proxy?server=77.72.80.80&port=9443&secret=79e344818749bd7ac519130220c25d09)
 - 0055\. [77.72.80.77:9443](https://t.me/proxy?server=77.72.80.77&port=9443&secret=79e344818749bd7ac519130220c25d09)
-- 0056\. [ark.proxytg.space:443](https://t.me/proxy?server=ark.proxytg.space&port=443&secret=eeb8df1294e7e13cd99e7a9144bae17db861726b2e70726f787974672e7370616365)
-- 0057\. [mt.shifor.live:443](https://t.me/proxy?server=mt.shifor.live&port=443&secret=eee1de11495a1f99a91c4ee0c863252b586d742e736869666f722e6c697665)
-- 0058\. [195.254.165.253:25565](https://t.me/proxy?server=195.254.165.253&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
-- 0059\. [195.254.165.249:25565](https://t.me/proxy?server=195.254.165.249&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
-- 0060\. [i-love-boobs.top:853](https://t.me/proxy?server=i-love-boobs.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b)
-- 0061\. [pika.proxytg.space:443](https://t.me/proxy?server=pika.proxytg.space&port=443&secret=ee09ca9424322894efa56ebc7e6c88f87b70696b612e70726f787974672e7370616365)
-- 0062\. [95.216.222.63:443](https://t.me/proxy?server=95.216.222.63&port=443&secret=ee85f51151981bd69a6281f9e85395161a676f6f676c65617069732e636f6d)
-- 0063\. [germany.tgproxysokol.pro:8443](https://t.me/proxy?server=germany.tgproxysokol.pro&port=8443&secret=ee4215d16e455242e9b5ffb6349df285d06164732e78352e7275)
-- 0064\. [178.105.141.172:443](https://t.me/proxy?server=178.105.141.172&port=443&secret=ee8db761231b91c7c07ac0a6e7323ad41b676f6f676c65617069732e636f6d)
-- 0065\. [132.243.213.216:443](https://t.me/proxy?server=132.243.213.216&port=443&secret=eea3f41c6c1aefca10e6a8c366158ae25d706574726f766963682e7275)
-- 0066\. [tg1.tgproxy1.fun:443](https://t.me/proxy?server=tg1.tgproxy1.fun&port=443&secret=ee9f275776f928838953db9dc7c5629ef27467312e746770726f7879312e66756e)
-- 0067\. [132.243.213.215:443](https://t.me/proxy?server=132.243.213.215&port=443&secret=ee46f33d84ae85e3ad53567904d7199be7706574726f766963682e7275)
-- 0068\. [144.31.221.15:443](https://t.me/proxy?server=144.31.221.15&port=443&secret=1d704dc7fbf37924bc72f016a8f91b0d)
-- 0069\. [79.137.196.223:4443](https://t.me/proxy?server=79.137.196.223&port=4443&secret=eeee4026e99e99216664b0cb156da676d7707777772e636c6f7564666c6172652e636f6d)
-- 0070\. [186.246.16.221:443](https://t.me/proxy?server=186.246.16.221&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275)
-- 0071\. [proxy.chunkycorp.shop:443](https://t.me/proxy?server=proxy.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275)
-- 0072\. [89.125.17.12:45100](https://t.me/proxy?server=89.125.17.12&port=45100&secret=eebc4dccfbda58d9f3b574dcece8cd54bf6974756e65732e6170706c652e636f6d)
-- 0073\. [mt.nowaboost.com:853](https://t.me/proxy?server=mt.nowaboost.com&port=853&secret=4fd95a487c5c87ae82b6639a9b6b5ff2)
-- 0074\. [178.105.137.152:443](https://t.me/proxy?server=178.105.137.152&port=443&secret=eeabf13064a3bf0851a02ad67114f842ce676f6f676c65617069732e636f6d)
-- 0075\. [89.167.40.214:443](https://t.me/proxy?server=89.167.40.214&port=443&secret=eea21bf437ed6f38a5b03c6e66b036d301676f6f676c65617069732e636f6d)
-- 0076\. [mt.corph.ru:443](https://t.me/proxy?server=mt.corph.ru&port=443&secret=dd2ed7517b077ef414e24b106e0729335d)
+- 0056\. [195.254.165.249:25565](https://t.me/proxy?server=195.254.165.249&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
+- 0057\. [195.254.165.253:25565](https://t.me/proxy?server=195.254.165.253&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
+- 0058\. [i-love-boobs.top:853](https://t.me/proxy?server=i-love-boobs.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b)
+- 0059\. [pika.proxytg.space:443](https://t.me/proxy?server=pika.proxytg.space&port=443&secret=ee09ca9424322894efa56ebc7e6c88f87b70696b612e70726f787974672e7370616365)
+- 0060\. [95.216.222.63:443](https://t.me/proxy?server=95.216.222.63&port=443&secret=ee85f51151981bd69a6281f9e85395161a676f6f676c65617069732e636f6d)
+- 0061\. [germany.tgproxysokol.pro:8443](https://t.me/proxy?server=germany.tgproxysokol.pro&port=8443&secret=ee4215d16e455242e9b5ffb6349df285d06164732e78352e7275)
+- 0062\. [178.105.141.172:443](https://t.me/proxy?server=178.105.141.172&port=443&secret=ee8db761231b91c7c07ac0a6e7323ad41b676f6f676c65617069732e636f6d)
+- 0063\. [132.243.213.216:443](https://t.me/proxy?server=132.243.213.216&port=443&secret=eea3f41c6c1aefca10e6a8c366158ae25d706574726f766963682e7275)
+- 0064\. [tg1.tgproxy1.fun:443](https://t.me/proxy?server=tg1.tgproxy1.fun&port=443&secret=ee9f275776f928838953db9dc7c5629ef27467312e746770726f7879312e66756e)
+- 0065\. [132.243.213.215:443](https://t.me/proxy?server=132.243.213.215&port=443&secret=ee46f33d84ae85e3ad53567904d7199be7706574726f766963682e7275)
+- 0066\. [proxy.chunkycorp.shop:443](https://t.me/proxy?server=proxy.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275)
+- 0067\. [89.125.17.12:45100](https://t.me/proxy?server=89.125.17.12&port=45100&secret=eebc4dccfbda58d9f3b574dcece8cd54bf6974756e65732e6170706c652e636f6d)
+- 0068\. [mt.nowaboost.com:853](https://t.me/proxy?server=mt.nowaboost.com&port=853&secret=4fd95a487c5c87ae82b6639a9b6b5ff2)
+- 0069\. [178.105.137.152:443](https://t.me/proxy?server=178.105.137.152&port=443&secret=eeabf13064a3bf0851a02ad67114f842ce676f6f676c65617069732e636f6d)
+- 0070\. [89.167.40.214:443](https://t.me/proxy?server=89.167.40.214&port=443&secret=eea21bf437ed6f38a5b03c6e66b036d301676f6f676c65617069732e636f6d)
+- 0071\. [186.246.16.221:443](https://t.me/proxy?server=186.246.16.221&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275)
+- 0072\. [mt.corph.ru:443](https://t.me/proxy?server=mt.corph.ru&port=443&secret=dd2ed7517b077ef414e24b106e0729335d)
+- 0073\. [178.105.168.17:443](https://t.me/proxy?server=178.105.168.17&port=443&secret=eeb67e98429f3ba8896ff33ab9ff9d18a1676f6f676c65617069732e636f6d)
+- 0074\. [186.246.20.121:443](https://t.me/proxy?server=186.246.20.121&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275)
+- 0075\. [server4.mtproxygram.lol:443](https://t.me/proxy?server=server4.mtproxygram.lol&port=443&secret=ee04b03d0bacb08c4cad9c2fb59898071462726f777365722e79616e6465782e636f6d)
+- 0076\. [server3.mtproxygram.lol:443](https://t.me/proxy?server=server3.mtproxygram.lol&port=443&secret=ee16ac683c4467cde70a6418a71571c67a62726f777365722e79616e6465782e636f6d)
 - 0077\. [195.254.165.250:25565](https://t.me/proxy?server=195.254.165.250&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
 - 0078\. [195.254.165.251:25565](https://t.me/proxy?server=195.254.165.251&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
 - 0079\. [195.254.165.247:25565](https://t.me/proxy?server=195.254.165.247&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
